@@ -2,4 +2,4 @@
 {"dg-publish":true,"permalink":"/pessoas/ringo-star/"}
 ---
 
-[[rock]] [[ciencias]]
+[estilos/rock\|rock] [disciplinas/ciencias\|ciencias]
