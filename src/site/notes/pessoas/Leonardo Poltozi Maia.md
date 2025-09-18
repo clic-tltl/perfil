@@ -1,5 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/pessoas/leonardo-poltozi-maia/"}
+dg-publish: true
 ---
-
- [[estilos/rock\|rock]] [[disciplinas/historia\|historia]]
+ [[estilos/rock|rock]] [[disciplinas/historia|historia]]

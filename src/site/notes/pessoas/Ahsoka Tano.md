@@ -1,5 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/pessoas/ahsoka-tano/"}
+dg-publish: true
 ---
-
- [[estilos/sertanejo\|sertanejo]] [[disciplinas/matematica\|matematica]]
+ [[estilos/sertanejo|sertanejo]] [[disciplinas/matematica|matematica]]

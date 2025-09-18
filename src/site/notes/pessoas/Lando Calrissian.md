@@ -1,5 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/pessoas/lando-calrissian/"}
+dg-publish: true
 ---
-
- [[estilos/eletronica\|eletronica]] [[disciplinas/ciencias\|ciencias]]
+ [[estilos/eletronica|eletronica]] [[disciplinas/ciencias|ciencias]]

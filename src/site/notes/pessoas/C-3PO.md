@@ -1,5 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/pessoas/c-3-po/"}
+dg-publish: true
 ---
-
- [[estilos/pop\|pop]] [[disciplinas/geografia\|geografia]]
+ [[estilos/pop|pop]] [[disciplinas/geografia|geografia]]

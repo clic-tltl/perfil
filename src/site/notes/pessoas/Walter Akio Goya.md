@@ -1,5 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/pessoas/walter-akio-goya/"}
+dg-publish: true
 ---
-
- [[estilos/forro\|forro]] [[disciplinas/matematica\|matematica]]
+ [[estilos/forro|forro]] [[disciplinas/matematica|matematica]]

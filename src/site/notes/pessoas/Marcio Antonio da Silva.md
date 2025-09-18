@@ -1,5 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/pessoas/marcio-antonio-da-silva/"}
+dg-publish: true
 ---
-
- [[estilos/rock\|rock]] [[disciplinas/historia\|historia]]
+ [[estilos/rock|rock]] [[disciplinas/historia|historia]]

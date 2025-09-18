@@ -1,5 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/pessoas/admiral-ackbar/"}
+dg-publish: true
 ---
-
- [[estilos/rock\|rock]] [[disciplinas/portugues\|portugues]]
+ [[estilos/rock|rock]] [[disciplinas/portugues|portugues]]

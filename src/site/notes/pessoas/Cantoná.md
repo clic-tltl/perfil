@@ -1,5 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/pessoas/cantona/"}
+dg-publish: true
 ---
-
- [[estilos/forro\|forro]] [[disciplinas/historia\|historia]]
+ [[estilos/forro|forro]] [[disciplinas/historia|historia]]

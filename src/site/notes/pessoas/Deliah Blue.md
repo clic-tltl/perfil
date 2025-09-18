@@ -1,5 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/pessoas/deliah-blue/"}
+dg-publish: true
 ---
-
- [[estilos/eletronica\|eletronica]] [[disciplinas/ciencias\|ciencias]]
+ [[estilos/eletronica|eletronica]] [[disciplinas/ciencias|ciencias]]

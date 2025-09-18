@@ -1,5 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/pessoas/anakin-skywalker/"}
+dg-publish: true
 ---
-
- [[estilos/pop\|pop]] [[disciplinas/geografia\|geografia]]
+ [[estilos/pop|pop]] [[disciplinas/geografia|geografia]]

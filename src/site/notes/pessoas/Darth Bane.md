@@ -1,5 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/pessoas/darth-bane/"}
+dg-publish: true
 ---
-
- [[estilos/rock\|rock]] [[disciplinas/portugues\|portugues]]
+ [[estilos/rock|rock]] [[disciplinas/portugues|portugues]]
